@@ -109,7 +109,7 @@
                                     type="text"
                                     id="event_id"
                                     class="form-control"
-                                    placeholder="evt_001">
+                                    placeholder="Enter Event ID">
 
                         </div>
 
@@ -123,7 +123,7 @@
                                     type="text"
                                     id="account_id"
                                     class="form-control"
-                                    placeholder="account_001">
+                                    placeholder="Enter Account ID">
 
                         </div>
 
@@ -137,7 +137,7 @@
                                     type="number"
                                     id="amount"
                                     class="form-control"
-                                    placeholder="500">
+                                    placeholder="Enter Amount">
 
                         </div>
 
