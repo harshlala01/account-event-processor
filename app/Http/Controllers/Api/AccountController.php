@@ -44,7 +44,7 @@ class AccountController extends Controller
         }
 
         $events = Event::where('account_id', $account_id)
-            ->orderBy('occurred_at', 'desc')
+            ->orderBy('occurred_at', 'asc')
             ->get();
 
         return response()->json([
